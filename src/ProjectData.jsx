@@ -4,8 +4,8 @@ export default [
     description:
       "Glow is a small business with a focus on deliving LinkedIn personal branding services and professional personal websites for the individual.",
     tech: ["React", "Node", "JavaScript"],
-    buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
-    buttonTwo: "https://invoice-it-up.netlify.app/",
+    buttonOne: "https://github.com/JAldo1980/small-business-landing-page",
+    buttonTwo: "https://jaldo1980.github.io/small-business-landing-page/",
     image: "public/glow-landing-page.png",
   },
   {
@@ -16,6 +16,25 @@ export default [
     buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
     buttonTwo: "https://invoice-it-up.netlify.app/",
     image: "public/invoice-builder-removebg-preview.png",
+  },
+
+  {
+    headline: "e-learning Landing Page",
+    description:
+      "My challenge was to build out a landing page and get it looking as close to the design as possible. The challenge was created by Frontend Mentor, using their detailed Figma file as a design guide. Flex-box and Grid would come in handly as well as utilising background images. My methodology for this project focuses on ‘mobile-first’ design principles.",
+    tech: ["CSS", "HTML", "Responsive Design"],
+    buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
+    buttonTwo: "https://helpful-bublanina-545078.netlify.app/",
+    image: "public/elearning-landing-page-img.png",
+  },
+  {
+    headline: "Music App Landing Page",
+    description:
+      "Brief: Your challenge is to build out this landing page and get it looking as close to the design as possible. I also wanted the landing page to closely follow the brief detailed by Frontend Mentor (using their detailed Figma file). Flex-box and Grid would come in handly as well as utilising background images. My methodology for this project focuses on ‘mobile-first’ design principles.",
+    tech: ["CSS", "HTML", "Responsive Design"],
+    buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
+    buttonTwo: "https://kaleidoscopic-bubblegum-a389e7.netlify.app/",
+    image: "public/music-app landing page (1).png",
   },
 
   {

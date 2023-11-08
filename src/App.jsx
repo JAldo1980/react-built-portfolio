@@ -7,8 +7,6 @@ import Footer from "/components/Footer.jsx";
 import Contact from "/components/Contact.jsx";
 
 export default function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <Header />
